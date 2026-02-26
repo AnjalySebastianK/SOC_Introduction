@@ -190,9 +190,7 @@ Below is a generic workflow that can be implemented in ServiceNow, Jira, TheHive
 
 ---
 
-## 4. Example diagrams (to be added as images)
-
-Below are descriptions of diagrams you can add as screenshots or created visuals.
+## 4. Example diagrams 
 
 ### 4.1 Tool comparison overview 
 
@@ -312,8 +310,3 @@ Below are descriptions of diagrams you can add as screenshots or created visuals
 
 ---
 
-### 4.4 Example ticket screenshot
-
-`images/example-incident-ticket.png`
-
----
